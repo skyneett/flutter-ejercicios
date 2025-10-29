@@ -1,0 +1,46 @@
+### 1. Clonar el repositorio
+```
+git clone https://github.com/skyneett/flutter-ejercicios.git
+```
+
+Si deseas clonar el proyecto en una carpeta con un nombre diferente:
+```
+git clone https://github.com/skyneett/flutter-ejercicios.git nombre_de_carpeta
+```
+
+---
+
+### 2. Navegar al directorio del proyecto
+```
+cd flutter-ejercicios
+```
+
+---
+
+### 3. Instalar las dependencias de Flutter
+Asegúrate de tener Flutter instalado en el sistema. Si no lo tienes, descárgalo desde [flutter.dev](https://flutter.dev/).
+
+Dentro del directorio del proyecto, ejecuta:
+```
+flutter pub get
+```
+
+---
+
+### 4. Verificar la configuración
+Para asegurarte de que todo está correctamente configurado, ejecuta:
+```
+flutter doctor
+```
+
+---
+
+### 5. Ejecutar el proyecto
+Si todo está configurado, puedes ejecutar el proyecto en un emulador o dispositivo conectado:
+```
+flutter run
+```
+
+--- 
+
+¡Copia y pega estos comandos en tu terminal para configurar el proyecto en otro PC!
