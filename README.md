@@ -1,6 +1,6 @@
 # Flutter Ejercicios
 
-![Halo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGt5cjN4Nzl6eHZoZmE4cDN4N3J6eGJ5ZGZ5ZGZ5ZGZ5ZGZ5ZGZ5ZGZ5&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Halo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtpOXd1d3R6MnBlam90Y3M4NnExZHYxeTA4MjIxNTBvbWg2M2Q3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U23rlgyL8QmQn7xrqt/giphy.gif)
 
 Una colección de ejercicios de programación en Flutter con interfaces de usuario interactivas.
 
