@@ -1,16 +1,39 @@
-# flutter_application_3
+# Flutter Ejercicios
 
-A new Flutter project.
+![Halo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGt5cjN4Nzl6eHZoZmE4cDN4N3J6eGJ5ZGZ5ZGZ5ZGZ5ZGZ5ZGZ5ZGZ5&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-## Getting Started
+Una colección de ejercicios de programación en Flutter con interfaces de usuario interactivas.
 
-This project is a starting point for a Flutter application.
+## 🎮 Ejercicios Implementados
 
-A few resources to get you started if this is your first Flutter project:
+1. **Calculadora de IMC** - Calcula el Índice de Masa Corporal
+2. **Validador de Contraseñas** - Verifica la seguridad de contraseñas
+3. **Conversor de Temperatura** - Convierte entre Celsius, Fahrenheit y Kelvin
+4. **Analizador de Texto** - Obtén estadísticas detalladas de textos
+5. **Carrito de Compras** - Gestiona productos con descuentos e impuestos
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+# Clonar el repositorio
+git clone https://github.com/skyneett/flutter-ejercicios.git
+
+# Navegar al directorio
+cd flutter-ejercicios
+
+# Instalar dependencias
+flutter pub get
+
+# Ejecutar la aplicación
+flutter run
+```
+
+## 📱 Screenshots
+
+La aplicación incluye una pantalla de inicio con navegación a cada uno de los 5 ejercicios implementados.
+
+## 🛠️ Tecnologías
+
+- Flutter
+- Dart
+- Material Design 3
